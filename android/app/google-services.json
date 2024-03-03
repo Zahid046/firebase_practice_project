@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792513420013",
+    "project_id": "coffe-cup-78798",
+    "storage_bucket": "coffe-cup-78798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792513420013:android:b2a2c79bf089b75f5bcae4",
+        "android_client_info": {
+          "package_name": "com.emon.firebase_practice_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxB0a2YheNvzDt8oDJRBTWP2xVj8xU1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
